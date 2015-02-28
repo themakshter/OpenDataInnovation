@@ -1,0 +1,256 @@
+,,,,A&E attendances,,,,"A&E attendances > 4 hours from arrival to admission, transfer or discharge",,,,,,Emergency Admissions,,,,,,,
+Area Team,,Code,Name,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,Percentage in 4 hours or less (type 1),Percentage in 4 hours or less (all),Emergency Admissions via Type 1 A&E,Emergency Admissions via Type 2 A&E,Emergency Admissions via Type 3 and 4 A&E,Total Emergency Admissions via A&E,Other Emergency Admissions (i.e not via A&E),Total Emergency Admissions,Number of patients spending >4 hours from decision to admit to admission,Number of patients spending >12 hours from decision to admit to admission
+-,,-,England,"262,370","11,945","131,876","406,191","32,206",37,407,"32,650",87.70%,92.00%,"76,398",308,695,"77,401","27,362","104,763","8,014",14
+,,,,,,,,,,,,,,,,,,,,,
+"Arden, Herefordshire And Worcestershire Area Team",,RYG,Coventry And Warwickshire Partnership NHS Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,17,17,0,0
+"Arden, Herefordshire And Worcestershire Area Team",,Y02613,Coventry NHS Healthcare Ctr,0,0,"1,163","1,163",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Arden, Herefordshire And Worcestershire Area Team",,RLT,George Eliot Hospital NHS Trust,"1,144",0,0,"1,144",77,0,0,77,93.30%,93.30%,277,0,0,277,17,294,32,0
+"Arden, Herefordshire And Worcestershire Area Team",,RJC,South Warwickshire NHS Foundation Trust,975,0,128,"1,103",96,0,0,96,90.20%,91.30%,360,0,0,360,68,428,10,0
+"Arden, Herefordshire And Worcestershire Area Team",,RKB,University Hospitals Coventry And Warwickshire NHS Trust,"2,413",376,415,"3,204",417,1,0,418,82.70%,87.00%,761,22,0,783,163,946,97,0
+"Arden, Herefordshire And Worcestershire Area Team",,RWP,Worcestershire Acute Hospitals NHS Trust,"2,150",0,926,"3,076",563,0,0,563,73.80%,81.70%,649,0,0,649,208,857,242,0
+"Arden, Herefordshire And Worcestershire Area Team",,R1A,Worcestershire Health And Care NHS Trust,0,140,19,159,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Arden, Herefordshire And Worcestershire Area Team",,RLQ,Wye Valley NHS Trust,857,0,671,"1,528",267,0,0,267,68.80%,82.50%,213,0,0,213,51,264,53,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,NLO03,Bath & North East Somerset Doctors Urgent Care [Bduc],0,0,212,212,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,Y00058,Carfax Health Enterprise,0,0,617,617,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,R1J,Gloucestershire Care Services NHS Trust,0,0,"1,133","1,133",0,0,3,3,N/A,99.70%,0,0,2,2,8,10,0,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,RTE,Gloucestershire Hospitals NHS Foundation Trust,"2,161",0,0,"2,161",570,0,0,570,73.60%,73.60%,761,0,0,761,139,900,147,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,RN3,Great Western Hospitals NHS Foundation Trust,"1,410",0,651,"2,061",257,0,0,257,81.80%,87.50%,511,0,0,511,167,678,106,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,NLX02,Paulton Memorial Hospital,0,0,131,131,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,RD1,Royal United Hospitals Bath NHS Foundation Trust,"1,203",0,0,"1,203",254,0,0,254,78.90%,78.90%,384,0,0,384,190,574,135,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,RNZ,Salisbury NHS Foundation Trust,767,0,0,767,55,0,0,55,92.80%,92.80%,226,0,0,226,177,403,19,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,NLY,Seqol,0,0,374,374,0,0,9,9,N/A,97.60%,0,0,0,0,0,0,0,0
+"Bath, Gloucestershire, Swindon And Wiltshire Area Team",,AAH,Tetbury Hospital Trust Ltd,0,0,43,43,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,NL7,Assura Vertis Urgent Care Centres (Birmingham),0,0,"1,274","1,274",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,RQ3,Birmingham Children's Hospital NHS Foundation Trust,"1,029",0,0,"1,029",18,0,0,18,98.30%,98.30%,185,0,0,185,78,263,0,0
+Birmingham And The Black Country Area Team,,RYW,Birmingham Community Healthcare NHS Trust,0,122,0,122,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,M85813,Birmingham Wic,0,0,659,659,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,RLU,Birmingham Women's NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,30,30,0,0
+Birmingham And The Black Country Area Team,,Y02737,Dudley Borough Walk In Centre,0,0,"1,004","1,004",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,NTPAL,Greet General Practice & Urgent Care Centre,0,0,476,476,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,RR1,Heart Of England NHS Foundation Trust,"4,343",0,0,"4,343",905,0,0,905,79.20%,79.20%,"1,412",0,0,"1,412",402,"1,814",278,0
+Birmingham And The Black Country Area Team,,RXK,Sandwell And West Birmingham Hospitals NHS Trust,"2,879",407,737,"4,023",331,2,0,333,88.50%,91.70%,799,1,0,800,175,975,19,0
+Birmingham And The Black Country Area Team,,Y02736,Showell Park Health & Walk In Centre,0,0,446,446,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,Y02568,Solihull Healthcare & Walk-In-Centre,0,0,866,866,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,Y02615,South Birmingham GP Walk In Centre,0,0,"1,059","1,059",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,Y02961,Summerfield GP Surg & Urgent Care Centre,0,0,999,999,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Birmingham And The Black Country Area Team,,RNA,The Dudley Group NHS Foundation Trust,"1,788",0,0,"1,788",16,0,0,16,99.10%,99.10%,578,0,0,578,237,815,2,0
+Birmingham And The Black Country Area Team,,RL4,The Royal Wolverhampton NHS Trust,"2,050",0,733,"2,783",199,0,0,199,90.30%,92.80%,488,0,0,488,320,808,77,0
+Birmingham And The Black Country Area Team,,RRK,University Hospitals Birmingham NHS Foundation Trust,"1,884",0,0,"1,884",83,0,0,83,95.60%,95.60%,628,0,0,628,271,899,10,0
+Birmingham And The Black Country Area Team,,RBK,Walsall Healthcare NHS Trust,"1,323",0,777,"2,100",309,0,0,309,76.60%,85.30%,403,0,0,403,120,523,114,0
+Birmingham And The Black Country Area Team,,Y02628,Walsall Walk In Health Centre,0,0,"1,131","1,131",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,NLW,Bristol Community Health,0,0,"1,099","1,099",0,0,12,12,N/A,98.90%,0,0,0,0,0,0,0,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,NLT02,Clevedon Hospital,0,0,147,147,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RVJ,North Bristol NHS Trust,"1,560",0,0,"1,560",252,0,0,252,83.80%,83.80%,567,0,0,567,254,821,78,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RH5,Somerset Partnership NHS Foundation Trust,0,0,"1,379","1,379",0,0,3,3,N/A,99.80%,0,0,0,0,44,44,0,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RBA,Taunton And Somerset NHS Foundation Trust,"1,025",0,0,"1,025",62,0,0,62,94.00%,94.00%,340,0,0,340,283,623,8,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RA7,University Hospitals Bristol NHS Foundation Trust,"1,838",413,0,"2,251",217,0,0,217,88.20%,90.40%,625,1,0,626,144,770,125,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RA3,Weston Area Health NHS Trust,871,0,0,871,113,0,0,113,87.00%,87.00%,222,0,0,222,18,240,3,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,NLX24,Yate West Gate Centre,0,0,299,299,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Bristol, North Somerset, Somerset And South Gloucestershire Area Team",,RA4,Yeovil District Hospital NHS Foundation Trust,792,0,0,792,72,0,0,72,90.90%,90.90%,317,0,0,317,23,340,9,0
+"Cheshire, Warrington And Wirral Area Team",,RTV,5 Boroughs Partnership NHS Foundation Trust,0,0,893,893,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Cheshire, Warrington And Wirral Area Team",,RJR,Countess Of Chester Hospital NHS Foundation Trust,"1,184",0,228,"1,412",134,0,0,134,88.70%,90.50%,352,0,0,352,111,463,45,0
+"Cheshire, Warrington And Wirral Area Team",,RJN,East Cheshire NHS Trust,793,0,98,891,94,0,0,94,88.10%,89.50%,209,0,0,209,72,281,8,0
+"Cheshire, Warrington And Wirral Area Team",,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"1,119",0,390,"1,509",209,0,0,209,81.30%,86.10%,398,0,0,398,247,645,1,0
+"Cheshire, Warrington And Wirral Area Team",,RWW,Warrington And Halton Hospitals NHS Foundation Trust,"1,541",0,244,"1,785",227,0,1,228,85.30%,87.20%,382,0,0,382,177,559,96,0
+"Cheshire, Warrington And Wirral Area Team",,RY7,Wirral Community NHS Trust,0,0,935,935,0,0,2,2,N/A,99.80%,0,0,0,0,0,0,0,0
+"Cheshire, Warrington And Wirral Area Team",,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"1,556",0,537,"2,093",273,0,0,273,82.50%,87.00%,532,0,0,532,358,890,110,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RLN,City Hospitals Sunderland NHS Foundation Trust,"1,587",522,385,"2,494",205,1,0,206,87.10%,91.70%,639,15,0,654,181,835,21,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RNN,Cumbria Partnership NHS Foundation Trust,0,0,226,226,0,0,2,2,N/A,99.10%,0,0,0,0,0,0,0,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RR7,Gateshead Health NHS Foundation Trust,"1,518",0,549,"2,067",116,0,0,116,92.40%,94.40%,424,0,0,424,132,556,0,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RNL,North Cumbria University Hospitals NHS Trust,"1,463",0,0,"1,463",388,0,0,388,73.50%,73.50%,400,0,0,400,241,641,121,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,NLO01,Northern Doctors Urgent Care [Nduc],0,0,"1,454","1,454",0,0,1,1,N/A,99.90%,0,0,0,0,0,0,0,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RTF,Northumbria Healthcare NHS Foundation Trust,"2,588",0,400,"2,988",234,0,0,234,91.00%,92.20%,"1,056",0,0,"1,056",123,"1,179",1,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RE9,South Tyneside NHS Foundation Trust,"1,102",0,0,"1,102",113,0,0,113,89.70%,89.70%,244,0,0,244,2,246,32,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"2,083",373,990,"3,446",242,3,0,245,88.40%,92.90%,525,3,0,528,588,"1,116",39,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust,"1,574",0,286,"1,860",151,0,7,158,90.40%,91.50%,507,0,30,537,244,781,22,0
+"Cumbria, Northumberland, Tyne And Wear Area Team",,AJN,Workington Health Limited,0,0,298,298,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"1,454",0,0,"1,454",127,0,0,127,91.30%,91.30%,424,0,0,424,242,666,22,0
+Derbyshire And Nottinghamshire Area Team,,RTG,Derby Hospitals NHS Foundation Trust,"2,378",0,889,"3,267",85,0,0,85,96.40%,97.40%,717,0,0,717,363,"1,080",3,0
+Derbyshire And Nottinghamshire Area Team,,Y02442,Derby Open Access Centre,0,0,536,536,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,RY8,Derbyshire Community Health Services NHS Foundation Trust,0,0,589,589,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,NNJ,Derbyshire Health United Ltd,0,0,371,371,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,NLV02,NHS Nottingham City 8Am - 8Pm Health Centre,0,0,855,855,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,NR3,Nottingham Citycare Partnership,0,0,"1,040","1,040",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Derbyshire And Nottinghamshire Area Team,,RX1,Nottingham University Hospitals NHS Trust,"3,160",322,53,"3,535",586,0,0,586,81.50%,83.40%,881,0,0,881,560,"1,441",111,0
+Derbyshire And Nottinghamshire Area Team,,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"1,740",0,849,"2,589",159,0,12,171,90.90%,93.40%,607,0,1,608,88,696,36,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,Y02596,Cardrew Health Centre,0,0,557,557,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,RBZ,Northern Devon Healthcare NHS Trust,736,0,"1,489","2,225",67,0,0,67,90.90%,97.00%,235,0,0,235,78,313,9,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,NLL,Peninsula Community Health C.I.C,0,0,"1,636","1,636",0,0,3,3,N/A,99.80%,0,0,2,2,14,16,0,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,NR5,Plymouth Community Healthcare (Cic),0,0,545,545,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,RK9,Plymouth Hospitals NHS Trust,"1,616",0,0,"1,616",285,0,0,285,82.40%,82.40%,534,0,0,534,352,886,45,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,REF,Royal Cornwall Hospitals NHS Trust,"1,002",0,299,"1,301",171,0,2,173,82.90%,86.70%,464,0,6,470,275,745,65,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,RH8,Royal Devon And Exeter NHS Foundation Trust,"1,843",0,0,"1,843",140,0,0,140,92.40%,92.40%,528,0,0,528,176,704,2,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,RA9,South Devon Healthcare NHS Foundation Trust,"1,368",0,0,"1,368",372,0,0,372,72.80%,72.80%,526,0,0,526,37,563,7,0
+"Devon, Cornwall And Isles Of Scilly Area Team",,R1G,Torbay And Southern Devon Health And Care NHS Trust,0,0,839,839,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+"Durham, Darlington And Tees Area Team",,RXP,County Durham And Darlington NHS Foundation Trust,"2,303",0,"3,068","5,371",484,0,0,484,79.00%,91.00%,697,0,0,697,421,"1,118",161,0
+"Durham, Darlington And Tees Area Team",,RVW,North Tees And Hartlepool NHS Foundation Trust,"1,251",0,298,"1,549",92,0,0,92,92.60%,94.10%,345,0,2,347,398,745,3,0
+"Durham, Darlington And Tees Area Team",,RTR,South Tees Hospitals NHS Foundation Trust,"2,136",0,"1,386","3,522",203,0,0,203,90.50%,94.20%,441,0,7,448,512,960,25,0
+East Anglia Area Team,,RGT,Cambridge University Hospitals NHS Foundation Trust,"1,910",0,0,"1,910",417,0,0,417,78.20%,78.20%,678,0,0,678,135,813,0,0
+East Anglia Area Team,,RYV,Cambridgeshire Community Services NHS Trust,0,0,668,668,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+East Anglia Area Team,,NAX,East Coast Community Healthcare C.I.C,0,0,84,84,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+East Anglia Area Team,,Y02662,Greyfriars Health Centre,0,0,173,173,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+East Anglia Area Team,,RQQ,Hinchingbrooke Health Care NHS Trust,808,0,0,808,112,0,0,112,86.10%,86.10%,220,0,0,220,32,252,38,0
+East Anglia Area Team,,RGQ,Ipswich Hospital NHS Trust,"1,436",0,0,"1,436",65,0,0,65,95.50%,95.50%,442,0,0,442,213,655,4,0
+East Anglia Area Team,,RGP,James Paget University Hospitals NHS Foundation Trust,"1,215",0,0,"1,215",54,0,0,54,95.60%,95.60%,235,0,0,235,71,306,0,0
+East Anglia Area Team,,RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,"1,887",0,188,"2,075",308,0,0,308,83.70%,85.20%,610,0,0,610,479,"1,089",39,0
+East Anglia Area Team,,NMH01,Norwich Practices Ltd (Castle Mall),0,0,"1,118","1,118",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+East Anglia Area Team,,RGN,Peterborough And Stamford Hospitals NHS Foundation Trust,"1,461",0,113,"1,574",343,0,0,343,76.50%,78.20%,519,0,0,519,110,629,75,0
+East Anglia Area Team,,NHM01,Suffolk Community Healthcare - Ipswich,0,0,123,123,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+East Anglia Area Team,,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","1,035",0,0,"1,035",59,0,0,59,94.30%,94.30%,380,0,0,380,204,584,12,0
+East Anglia Area Team,,RGR,West Suffolk NHS Foundation Trust,"1,211",0,0,"1,211",173,0,0,173,85.70%,85.70%,395,0,0,395,74,469,4,0
+Essex Area Team,,NWK,Assura Chelmsford Llp,0,0,554,554,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Essex Area Team,,RDD,Basildon And Thurrock University Hospitals NHS Foundation Trust,"2,230",0,0,"2,230",234,0,0,234,89.50%,89.50%,490,0,0,490,61,551,62,0
+Essex Area Team,,NQ108,Clacton Hospital,0,0,321,321,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Essex Area Team,,RDE,Colchester Hospital University NHS Foundation Trust,"1,288",0,0,"1,288",234,0,0,234,81.80%,81.80%,401,0,0,401,268,669,22,0
+Essex Area Team,,NQ106,Fryatt Hospital,0,0,93,93,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Essex Area Team,,RQ8,Mid Essex Hospital Services NHS Trust,"1,552",32,0,"1,584",317,0,0,317,79.60%,80.00%,381,16,0,397,122,519,26,0
+Essex Area Team,,Y02646,North Colchester Healthcare Centre,0,0,"1,068","1,068",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Essex Area Team,,RAJ,Southend University Hospital NHS Foundation Trust,"1,720",0,0,"1,720",93,0,0,93,94.60%,94.60%,594,0,0,594,105,699,7,0
+Essex Area Team,,RQW,The Princess Alexandra Hospital NHS Trust,"1,642",0,50,"1,692",135,0,0,135,91.80%,92.00%,424,0,0,424,111,535,22,0
+Greater Manchester Area Team,,RMC,Bolton NHS Foundation Trust,"1,952",0,0,"1,952",218,0,0,218,88.80%,88.80%,461,0,0,461,204,665,70,0
+Greater Manchester Area Team,,RY2,Bridgewater Community Healthcare NHS Foundation Trust,0,0,"2,283","2,283",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Greater Manchester Area Team,,RW3,Central Manchester University Hospitals NHS Foundation Trust,"2,758",752,"2,022","5,532",164,0,4,168,94.10%,97.00%,854,35,38,927,132,"1,059",37,0
+Greater Manchester Area Team,,Y02875,Lindley House Health Centre,0,0,844,844,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Greater Manchester Area Team,,RW6,Pennine Acute Hospitals NHS Trust,"4,650",0,983,"5,633",352,0,20,372,92.40%,93.40%,"1,242",0,14,"1,256",394,"1,650",84,0
+Greater Manchester Area Team,,RT2,Pennine Care NHS Foundation Trust,0,0,"1,368","1,368",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Greater Manchester Area Team,,RM3,Salford Royal NHS Foundation Trust,"1,702",0,0,"1,702",28,0,0,28,98.40%,98.40%,596,0,0,596,48,644,9,0
+Greater Manchester Area Team,,RWJ,Stockport NHS Foundation Trust,"1,577",0,0,"1,577",320,0,0,320,79.70%,79.70%,550,0,0,550,206,756,111,0
+Greater Manchester Area Team,,RMP,Tameside Hospital NHS Foundation Trust,"1,455",0,0,"1,455",126,0,0,126,91.30%,91.30%,393,0,0,393,60,453,45,0
+Greater Manchester Area Team,,RBV,The Christie NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,73,73,0,0
+Greater Manchester Area Team,,RM2,University Hospital Of South Manchester NHS Foundation Trust,"1,632",0,0,"1,632",63,0,0,63,96.10%,96.10%,574,0,0,574,172,746,28,0
+Greater Manchester Area Team,,RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust","1,562",0,0,"1,562",39,0,0,39,97.50%,97.50%,484,0,0,484,19,503,5,0
+Hertfordshire And The South Midlands Area Team,,RC1,Bedford Hospital NHS Trust,"1,190",0,0,"1,190",52,0,0,52,95.60%,95.60%,326,0,0,326,41,367,7,0
+Hertfordshire And The South Midlands Area Team,,NQTL1,Cheshunt Minor Injuries Unit,0,0,314,314,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Hertfordshire And The South Midlands Area Team,,Y03571,Corby Urgent Care Centre,0,0,"1,168","1,168",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Hertfordshire And The South Midlands Area Team,,RWH,East And North Hertfordshire NHS Trust,"1,786",0,509,"2,295",143,0,0,143,92.00%,93.80%,568,0,0,568,184,752,0,0
+Hertfordshire And The South Midlands Area Team,,RY4,Hertfordshire Community NHS Trust,0,0,140,140,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Hertfordshire And The South Midlands Area Team,,RNQ,Kettering General Hospital NHS Foundation Trust,"1,453",0,0,"1,453",244,0,0,244,83.20%,83.20%,373,0,0,373,187,560,106,0
+Hertfordshire And The South Midlands Area Team,,RC9,Luton And Dunstable University Hospital NHS Foundation Trust,"1,735",0,775,"2,510",27,0,0,27,98.40%,98.90%,561,0,0,561,196,757,0,0
+Hertfordshire And The South Midlands Area Team,,RD8,Milton Keynes Hospital NHS Foundation Trust,"1,445",0,"1,094","2,539",197,0,0,197,86.40%,92.20%,318,0,0,318,173,491,38,0
+Hertfordshire And The South Midlands Area Team,,RNS,Northampton General Hospital NHS Trust,"1,720",209,0,"1,929",217,2,0,219,87.40%,88.60%,550,0,0,550,211,761,35,0
+Hertfordshire And The South Midlands Area Team,,Y02428,Putnoe Medical Centre Walk In Centre,0,0,475,475,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Hertfordshire And The South Midlands Area Team,,RWG,West Hertfordshire Hospitals NHS Trust,"1,590",0,817,"2,407",279,0,2,281,82.50%,88.30%,591,0,0,591,210,801,115,0
+Kent And Medway Area Team,,RN7,Dartford And Gravesham NHS Trust,"1,732",0,0,"1,732",89,0,0,89,94.90%,94.90%,509,0,0,509,23,532,9,0
+Kent And Medway Area Team,,G82071,Dr Jm Ribchester & Partners,0,0,350,350,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Kent And Medway Area Team,,RVV,East Kent Hospitals University NHS Foundation Trust,"2,615",0,"1,101","3,716",389,0,37,426,85.10%,88.50%,770,0,364,"1,134",329,"1,463",29,0
+Kent And Medway Area Team,,RYY,Kent Community Health NHS Trust,0,0,"1,768","1,768",0,0,1,1,N/A,99.90%,0,0,0,0,0,0,0,0
+Kent And Medway Area Team,,RWF,Maidstone And Tunbridge Wells NHS Trust,"2,300",0,0,"2,300",169,0,0,169,92.70%,92.70%,680,0,0,680,71,751,63,0
+Kent And Medway Area Team,,RPA,Medway NHS Foundation Trust,"1,900",0,0,"1,900",400,0,0,400,78.90%,78.90%,317,0,0,317,215,532,140,0
+Lancashire Area Team,,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"1,404",0,"2,067","3,471",235,0,0,235,83.30%,93.20%,377,0,0,377,190,567,131,1
+Lancashire Area Team,,RXR,East Lancashire Hospitals NHS Trust,"2,051",0,"1,440","3,491",206,0,10,216,90.00%,93.80%,772,0,14,786,354,"1,140",60,0
+Lancashire Area Team,,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"2,157",0,0,"2,157",241,0,0,241,88.80%,88.80%,448,0,0,448,365,813,74,0
+Leicestershire And Lincolnshire Area Team,,C82038,Latham House Medical Practice,0,0,111,111,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Leicestershire And Lincolnshire Area Team,,RY5,Lincolnshire Community Health Services NHS Trust,0,0,"2,888","2,888",0,0,24,24,N/A,99.20%,0,0,14,14,5,19,0,0
+Leicestershire And Lincolnshire Area Team,,NJS05,Loughborough Urgent Care Centre,0,0,746,746,0,0,4,4,N/A,99.50%,0,0,0,0,0,0,0,0
+Leicestershire And Lincolnshire Area Team,,C82009,Market Harborough Med.Ctr,0,0,291,291,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Leicestershire And Lincolnshire Area Team,,C82010,Oakham Medical Practice,0,0,73,73,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Leicestershire And Lincolnshire Area Team,,RWD,United Lincolnshire Hospitals NHS Trust,"2,688",0,0,"2,688",371,0,0,371,86.20%,86.20%,747,0,0,747,297,"1,044",1,0
+Leicestershire And Lincolnshire Area Team,,RWE,University Hospitals Of Leicester NHS Trust,"2,295",371,"1,219","3,885",292,2,0,294,87.30%,92.40%,781,0,0,781,810,"1,591",5,0
+London Area Team,,RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust","3,993",146,665,"4,804",230,7,0,237,94.20%,95.10%,952,0,0,952,9,961,39,0
+London Area Team,,R1H,Barts Health NHS Trust,"5,537",163,"2,445","8,145",675,4,67,746,87.80%,90.80%,"1,591",0,0,"1,591",387,"1,978",188,0
+London Area Team,,AD913,Beckenham Beacon Ucc,0,0,809,809,0,0,5,5,N/A,99.40%,0,0,0,0,0,0,0,0
+London Area Team,,RYX,Central London Community Healthcare NHS Trust,0,0,"4,178","4,178",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RQM,Chelsea And Westminster Hospital NHS Foundation Trust,"2,179",0,0,"2,179",57,0,0,57,97.40%,97.40%,373,0,0,373,33,406,2,0
+London Area Team,,RJ6,Croydon Health Services NHS Trust,"1,329",0,830,"2,159",183,0,0,183,86.20%,91.50%,536,0,0,536,55,591,60,0
+London Area Team,,Y02823,Dmc Vicarage Lane,0,0,771,771,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,NX122,Edridge Road Community Health Centre,0,0,614,614,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RVR,Epsom And St Helier University Hospitals NHS Trust,"2,472",93,0,"2,565",140,0,0,140,94.30%,94.50%,637,0,0,637,62,699,57,0
+London Area Team,,RJ1,Guy's And St Thomas' NHS Foundation Trust,"2,617",177,678,"3,472",178,0,1,179,93.20%,94.80%,690,0,0,690,75,765,19,0
+London Area Team,,Y03082,Harold Wood Walk In Centre,0,0,"1,076","1,076",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RQX,Homerton University Hospital NHS Foundation Trust,"2,232",0,0,"2,232",164,0,0,164,92.70%,92.70%,314,0,0,314,60,374,43,0
+London Area Team,,RY9,Hounslow And Richmond Community Healthcare NHS Trust,0,0,880,880,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RYJ,Imperial College Healthcare NHS Trust,"2,144",754,"2,278","5,176",484,0,12,496,77.40%,90.40%,678,0,0,678,370,"1,048",124,0
+London Area Team,,RJZ,King's College Hospital NHS Foundation Trust,"3,653",541,"1,083","5,277",807,0,12,819,77.90%,84.50%,982,0,0,982,129,"1,111",191,2
+London Area Team,,RAX,Kingston Hospital NHS Foundation Trust,"1,737",171,0,"1,908",170,0,0,170,90.20%,91.10%,344,0,0,344,76,420,0,0
+London Area Team,,RJ2,Lewisham And Greenwich NHS Trust,"3,891",0,824,"4,715",540,0,4,544,86.10%,88.50%,973,0,0,973,43,"1,016",117,0
+London Area Team,,R1K,London North West Healthcare NHS Trust,"2,370",0,"3,908","6,278",632,0,61,693,73.30%,89.00%,997,0,0,997,162,"1,159",293,0
+London Area Team,,RP6,Moorfields Eye Hospital NHS Foundation Trust,0,"1,913",0,"1,913",0,7,0,7,N/A,99.60%,0,9,0,9,30,39,0,0
+London Area Team,,RAT,North East London NHS Foundation Trust,0,0,"1,125","1,125",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RAP,North Middlesex University Hospital NHS Trust,"3,362",0,0,"3,362",327,0,0,327,90.30%,90.30%,459,0,0,459,29,488,172,0
+London Area Team,,Y02585,Orient Practice,0,0,316,316,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RT3,Royal Brompton & Harefield NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,114,114,0,0
+London Area Team,,RAL,Royal Free London NHS Foundation Trust,"3,980",0,733,"4,713",190,0,0,190,95.20%,96.00%,695,0,0,695,88,783,82,0
+London Area Team,,RAN,Royal National Orthopaedic Hospital NHS Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,4,4,0,0
+London Area Team,,Y03047,St Andrews Walk-In Centre,0,0,546,546,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RJ7,St George's Healthcare NHS Foundation Trust,"2,633",0,257,"2,890",297,0,1,298,88.70%,89.70%,818,0,0,818,156,974,0,0
+London Area Team,,F84747,The Barkantine Practice,0,0,591,591,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RAS,The Hillingdon Hospitals NHS Foundation Trust,"1,085",0,"1,859","2,944",247,0,1,248,77.20%,91.60%,392,0,0,392,32,424,25,0
+London Area Team,,Y02987,The Practice Loxford,0,0,264,264,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,E84068,The Ridgeway Surgery,0,0,395,395,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RKE,The Whittington Hospital NHS Trust,"1,796",0,0,"1,796",79,0,0,79,95.60%,95.60%,427,0,0,427,27,454,9,0
+London Area Team,,RRV,University College London Hospitals NHS Foundation Trust,"2,473",0,0,"2,473",86,0,0,86,96.50%,96.50%,335,0,0,335,108,443,0,0
+London Area Team,,Y02147,Urgent Care Centre,0,0,"1,908","1,908",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,Y03201,Waldron - Hurley Unregistered Practice,0,0,619,619,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+London Area Team,,RFW,West Middlesex University Hospital NHS Trust,"1,082",0,"1,657","2,739",213,0,4,217,80.30%,92.10%,439,0,0,439,39,478,6,0
+Merseyside Area Team,,REM,Aintree University Hospital NHS Foundation Trust,"1,508",0,546,"2,054",390,0,0,390,74.10%,81.00%,513,0,0,513,224,737,93,0
+Merseyside Area Team,,RBS,Alder Hey Children's NHS Foundation Trust,913,0,0,913,14,0,0,14,98.50%,98.50%,125,0,0,125,71,196,0,0
+Merseyside Area Team,,RY1,Liverpool Community Health NHS Trust,0,0,"3,412","3,412",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Merseyside Area Team,,RBQ,Liverpool Heart And Chest Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,51,51,0,0
+Merseyside Area Team,,REP,Liverpool Women's NHS Foundation Trust,0,222,0,222,0,0,0,0,N/A,100.00%,0,23,0,23,6,29,0,0
+Merseyside Area Team,,RQ6,Royal Liverpool And Broadgreen University Hospitals NHS Trust,"1,816",410,0,"2,226",130,0,0,130,92.80%,94.20%,622,0,0,622,201,823,0,0
+Merseyside Area Team,,RVY,Southport And Ormskirk Hospital NHS Trust,873,406,759,"2,038",173,1,0,174,80.20%,91.50%,357,75,0,432,30,462,49,0
+Merseyside Area Team,,RBN,St Helens And Knowsley Hospitals NHS Trust,"1,882",0,450,"2,332",232,0,0,232,87.70%,90.10%,665,0,0,665,209,874,38,0
+Merseyside Area Team,,RET,The Walton Centre NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,36,36,0,0
+North Yorkshire And Humber Area Team,,NNF09,Bransholme Health Centre,0,0,244,244,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+North Yorkshire And Humber Area Team,,NNF16,Bridlington Hospital,0,0,303,303,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+North Yorkshire And Humber Area Team,,NNF28,Freedom Centre,0,0,78,78,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+North Yorkshire And Humber Area Team,,RCD,Harrogate And District NHS Foundation Trust,764,0,323,"1,087",64,0,0,64,91.60%,94.10%,197,0,0,197,146,343,0,0
+North Yorkshire And Humber Area Team,,RWA,Hull And East Yorkshire Hospitals NHS Trust,"2,097",0,244,"2,341",565,0,0,565,73.10%,75.90%,665,0,0,665,220,885,175,0
+North Yorkshire And Humber Area Team,,RV9,Humber NHS Foundation Trust,0,0,172,172,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+North Yorkshire And Humber Area Team,,RJL,Northern Lincolnshire And Goole NHS Foundation Trust,"2,252",0,328,"2,580",253,0,0,253,88.80%,90.20%,578,0,0,578,113,691,74,0
+North Yorkshire And Humber Area Team,,RCB,York Teaching Hospital NHS Foundation Trust,"2,428",0,800,"3,228",446,0,1,447,81.60%,86.20%,691,0,0,691,313,"1,004",94,0
+Shropshire And Staffordshire Area Team,,RJF,Burton Hospitals NHS Foundation Trust,"1,144",0,959,"2,103",47,0,0,47,95.90%,97.80%,335,0,0,335,161,496,1,0
+Shropshire And Staffordshire Area Team,,Y02421,Malling Health - Telford Wic,0,0,156,156,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Shropshire And Staffordshire Area Team,,RXW,Shrewsbury And Telford Hospital NHS Trust,"1,987",152,166,"2,305",216,0,0,216,89.10%,90.60%,407,0,0,407,506,913,54,0
+Shropshire And Staffordshire Area Team,,R1D,Shropshire Community Health NHS Trust,0,71,386,457,0,0,0,0,N/A,100.00%,0,0,0,0,3,3,0,0
+Shropshire And Staffordshire Area Team,,Y02495,Shropshire Walk In Health Centre,0,0,296,296,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Shropshire And Staffordshire Area Team,,R1E,Staffordshire And Stoke On Trent Partnership NHS Trust,0,0,216,216,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Shropshire And Staffordshire Area Team,,NLO02,Staffordshire Doctors Urgent Care Ltd [Sduc],0,0,108,108,0,0,2,2,N/A,98.10%,0,0,0,0,0,0,0,0
+Shropshire And Staffordshire Area Team,,RL1,The Robert Jones And Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,4,4,0,0
+Shropshire And Staffordshire Area Team,,RJE,University Hospitals Of North Midlands NHS Trust,"2,232",99,"1,683","4,014",878,0,51,929,60.70%,76.90%,856,0,151,"1,007",391,"1,398",47,3
+South Yorkshire And Bassetlaw Area Team,,RFF,Barnsley Hospital NHS Foundation Trust,"1,429",0,0,"1,429",36,0,0,36,97.50%,97.50%,389,0,0,389,173,562,2,0
+South Yorkshire And Bassetlaw Area Team,,NTP08,Care Uk NHS Rotherham Diagnostic Centre,0,0,871,871,0,0,2,2,N/A,99.80%,0,0,0,0,0,0,0,0
+South Yorkshire And Bassetlaw Area Team,,RP5,Doncaster And Bassetlaw Hospitals NHS Foundation Trust,"2,456",0,647,"3,103",237,0,0,237,90.40%,92.40%,567,0,45,612,311,923,116,0
+South Yorkshire And Bassetlaw Area Team,,RCU,Sheffield Children's NHS Foundation Trust,913,0,0,913,9,0,0,9,99.00%,99.00%,184,0,0,184,34,218,0,0
+South Yorkshire And Bassetlaw Area Team,,Y02565,Sheffield City GP Hc (Wic),0,0,"1,313","1,313",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+South Yorkshire And Bassetlaw Area Team,,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"2,275",267,378,"2,920",367,0,0,367,83.90%,87.40%,599,0,0,599,537,"1,136",67,0
+South Yorkshire And Bassetlaw Area Team,,RFR,The Rotherham NHS Foundation Trust,"1,407",0,0,"1,407",44,0,0,44,96.90%,96.90%,306,0,0,306,140,446,1,0
+Surrey And Sussex Area Team,,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,"1,708",0,264,"1,972",184,0,0,184,89.20%,90.70%,436,0,0,436,37,473,54,0
+Surrey And Sussex Area Team,,Y02688,Ashford Health Centre,0,0,952,952,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Surrey And Sussex Area Team,,RXH,Brighton And Sussex University Hospitals NHS Trust,"2,427",277,0,"2,704",513,0,0,513,78.90%,81.00%,915,4,0,919,122,"1,041",142,0
+Surrey And Sussex Area Team,,RXC,East Sussex Healthcare NHS Trust,"1,911",195,337,"2,443",268,0,0,268,86.00%,89.00%,588,0,0,588,161,749,19,0
+Surrey And Sussex Area Team,,RDU,Frimley Health NHS Foundation Trust,"3,927",0,0,"3,927",134,0,0,134,96.60%,96.60%,"1,280",0,0,"1,280",188,"1,468",42,0
+Surrey And Sussex Area Team,,NDA57,Haslemere Minor Injuries Unit,0,0,130,130,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Surrey And Sussex Area Team,,RPC,Queen Victoria Hospital NHS Foundation Trust,0,0,197,197,0,0,2,2,N/A,99.00%,0,0,3,3,93,96,0,0
+Surrey And Sussex Area Team,,RA2,Royal Surrey County Hospital NHS Foundation Trust,"1,224",68,0,"1,292",62,0,0,62,94.90%,95.20%,427,32,0,459,47,506,0,0
+Surrey And Sussex Area Team,,RTP,Surrey And Sussex Healthcare NHS Trust,"1,566",0,0,"1,566",169,0,0,169,89.20%,89.20%,525,0,0,525,84,609,91,0
+Surrey And Sussex Area Team,,RDR,Sussex Community NHS Trust,0,0,"1,108","1,108",0,0,6,6,N/A,99.50%,0,0,0,0,0,0,0,0
+Surrey And Sussex Area Team,,RYR,Western Sussex Hospitals NHS Foundation Trust,"2,305",0,0,"2,305",107,0,0,107,95.40%,95.40%,706,0,0,706,283,989,26,0
+Surrey And Sussex Area Team,,NDA56,Weybridge Walk In Centre,0,0,613,613,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Surrey And Sussex Area Team,,NDA55,Woking Walk In Centre,0,0,745,745,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Thames Valley Area Team,,NQT10,Assura Reading Llp,0,0,984,984,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Thames Valley Area Team,,RWX,Berkshire Healthcare NHS Foundation Trust,0,0,"1,230","1,230",0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Thames Valley Area Team,,RXQ,Buckinghamshire Healthcare NHS Trust,"1,347",279,691,"2,317",215,1,1,217,84.00%,90.60%,536,55,0,591,165,756,96,0
+Thames Valley Area Team,,RNU,Oxford Health NHS Foundation Trust,0,0,470,470,0,0,5,5,N/A,98.90%,0,0,0,0,0,0,0,0
+Thames Valley Area Team,,RTH,Oxford University Hospitals NHS Trust,"2,204",282,0,"2,486",362,0,0,362,83.60%,85.40%,627,8,0,635,497,"1,132",107,0
+Thames Valley Area Team,,RHW,Royal Berkshire NHS Foundation Trust,"1,759",271,0,"2,030",110,4,0,114,93.70%,94.40%,580,0,0,580,162,742,17,0
+Wessex Area Team,,RBD,Dorset County Hospital NHS Foundation Trust,787,0,0,787,96,0,0,96,87.80%,87.80%,298,0,0,298,92,390,8,0
+Wessex Area Team,,RDY,Dorset Healthcare University NHS Foundation Trust,0,0,650,650,0,0,0,0,N/A,100.00%,0,0,0,0,6,6,0,0
+Wessex Area Team,,RN5,Hampshire Hospitals NHS Foundation Trust,"1,791",0,231,"2,022",187,0,0,187,89.60%,90.80%,409,0,0,409,234,643,111,0
+Wessex Area Team,,R1F,Isle Of Wight NHS Trust,784,0,503,"1,287",210,0,0,210,73.20%,83.70%,201,0,0,201,29,230,79,1
+Wessex Area Team,,RD3,Poole Hospital NHS Foundation Trust,"1,129",0,0,"1,129",67,0,0,67,94.10%,94.10%,351,0,0,351,247,598,11,0
+Wessex Area Team,,RHU,Portsmouth Hospitals NHS Trust,"1,745",223,332,"2,300",612,0,0,612,64.90%,73.40%,686,0,0,686,321,"1,007",370,6
+Wessex Area Team,,R1C,Solent NHS Trust,0,0,427,427,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+Wessex Area Team,,NTP11,Southampton NHS Treatment Centre,0,0,825,825,0,0,3,3,N/A,99.60%,0,0,0,0,0,0,3,0
+Wessex Area Team,,RW1,Southern Health NHS Foundation Trust,0,0,427,427,0,0,4,4,N/A,99.10%,0,0,2,2,22,24,4,0
+Wessex Area Team,,NTPAD,St Mary's NHS Treatment Centre,0,0,853,853,0,0,3,3,N/A,99.60%,0,0,0,0,0,0,3,0
+Wessex Area Team,,RDZ,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,"1,289",301,0,"1,590",166,0,0,166,87.10%,89.60%,377,1,0,378,218,596,55,0
+Wessex Area Team,,RHM,University Hospital Southampton NHS Foundation Trust,"1,575",425,0,"2,000",288,2,0,290,81.70%,85.50%,569,8,0,577,454,"1,031",139,1
+West Yorkshire Area Team,,RCF,Airedale NHS Foundation Trust,975,0,0,975,29,0,0,29,97.00%,97.00%,236,0,0,236,177,413,1,0
+West Yorkshire Area Team,,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"2,388",0,0,"2,388",97,0,0,97,95.90%,95.90%,671,0,0,671,231,902,9,0
+West Yorkshire Area Team,,RWY,Calderdale And Huddersfield NHS Foundation Trust,"2,542",0,0,"2,542",125,0,0,125,95.10%,95.10%,524,0,0,524,261,785,25,0
+West Yorkshire Area Team,,Y01231,Lcd-Leeds-Ooh,0,0,529,529,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+West Yorkshire Area Team,,RR8,Leeds Teaching Hospitals NHS Trust,"3,707",0,355,"4,062",161,0,0,161,95.70%,96.00%,"1,401",0,0,"1,401",273,"1,674",17,0
+West Yorkshire Area Team,,Y01069,Local Care Direct Ooh,0,0,697,697,0,0,0,0,N/A,100.00%,0,0,0,0,0,0,0,0
+West Yorkshire Area Team,,RXF,Mid Yorkshire Hospitals NHS Trust,"4,038",0,0,"4,038",549,0,0,549,86.40%,86.40%,983,0,0,983,215,"1,198",285,0
+West Yorkshire Area Team,,RXG,South West Yorkshire Partnership NHS Foundation Trust,0,0,0,0,0,0,0,0,N/A,N/A,0,0,0,0,25,25,0,0
