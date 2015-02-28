@@ -4,6 +4,9 @@
 	<title>Open Data Innovation Work</title>
 </head>
 <body>
+<<<<<<< HEAD
+	<a href="./DataVisualisation/TreemapVisualisation/index.html">Link to treemap visualisation</a>
+=======
 	<a href="./DataVisualisation/TreemapVisualisation/">Link to treemap visualisation</a>
 	<br/>
 	<a href="./DataVisualisation/MappingPopulation/">Link to population mapping</a>
@@ -11,5 +14,6 @@
 	<a href="./DataVisualisation/Heatmap/">Link to UK Educational heatmap</a>
 	<br/>
 	<a href="./DataVisualisation/CartoDB/">Link to Singaporean Eleciton results</a>
+>>>>>>> gh-pages
 </body>
 </html>
